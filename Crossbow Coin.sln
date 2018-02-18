@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Crossbow Coin", "Crossbow Coin.csproj", "{E1C7E563-F70C-72C5-5C1A-9C70F3C4FDBA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E1C7E563-F70C-72C5-5C1A-9C70F3C4FDBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1C7E563-F70C-72C5-5C1A-9C70F3C4FDBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1C7E563-F70C-72C5-5C1A-9C70F3C4FDBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1C7E563-F70C-72C5-5C1A-9C70F3C4FDBA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
